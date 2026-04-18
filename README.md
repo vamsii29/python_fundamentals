@@ -42,16 +42,6 @@ python_fundamentals/
 
 ---
 
-## 📈 Progress Tracker
-
-| Day | Status | Topics Covered |
-|-----|--------|----------------|
-| Day 1 | ✅ Complete | Python basics, variables, strings |
-| Day 2 | 🔄 In progress | — |
-| Day 3+ | ⏳ Upcoming | — |
-
----
-
 ## 📝 Notes
 
 This repository is intended for:
