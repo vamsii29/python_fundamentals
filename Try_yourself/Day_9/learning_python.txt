@@ -1,0 +1,5 @@
+I love python
+In python i learnt for loops
+In python i learnt if-else
+In python i learnt classes
+In python i learnt while loop
