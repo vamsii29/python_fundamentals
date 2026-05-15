@@ -33,3 +33,6 @@ if __name__ == "__main__":
 
     user_1 = Admin('sai','korumilli')
     user_1.privilage_instance.show_privilages()
+    user_2 = User('ramya','anumolu')
+    user_2.greet_user()
+    user_2.describe_user()
